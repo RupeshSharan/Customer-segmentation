@@ -161,9 +161,3 @@ From these above models after hyperparameter optimization we selected these two 
 
 **Custom Logger and Exceptions** are used in the Project for better debugging purposes.
 
-## Conclusion
-
-- This Project can be used in real-life by Users.
-
-Author - Hrisikesh Neogi
-"# Customer-segmentation" 
